@@ -37,13 +37,13 @@ To view the project locally, you can either open the project files in your code 
 
 #### Part 2
 
-- [ ] Navigate to the Assignment Page
-- [ ] Read the assignment overview and output section.
-- [ ] In `assignment.js`:
-    - [ ] Create an immutable variable named `resolution` and assign it the appropriate value.
-    - [ ] Create an immutable variable named `currentYear` and assign it the appropriate value.
-    - [ ] Create a mutable variable named `willMeetResolution` and assign it the appropriate value.
-    - [ ] Update the all the empty functions.
+- [X] Navigate to the Assignment Page
+- [X] Read the assignment overview and output section.
+- [X] In `assignment.js`:
+    - [X] Create an immutable variable named `resolution` and assign it the appropriate value.
+    - [X] Create an immutable variable named `currentYear` and assign it the appropriate value.
+    - [X] Create a mutable variable named `willMeetResolution` and assign it the appropriate value.
+    - [X] Update the all the empty functions.
 
 
 ### Tips
